@@ -63,4 +63,3 @@ function decode(text){
 
 decode('craft block argon meter bells brown croon droop');
 
-decode('craft block argon meter bells brown croon droop');
